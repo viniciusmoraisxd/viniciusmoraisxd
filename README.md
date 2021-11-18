@@ -10,8 +10,8 @@ Atualmente estou focado em Desenvolvimento Mobile com Flutter e Web com Laravel,
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/viniciusmoraisxd">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=viniciusmoraisxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmoraisxd&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
