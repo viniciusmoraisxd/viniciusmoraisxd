@@ -1,12 +1,11 @@
 ## Olá, me chamo Vinícius de Morais! 👋
 
 Sou um entusiasta apaixonado por tecnologia e desenvolvimento de aplicativos.
-Tenho vasto conhecimento em desenvolvimento de Softwares do Back ao Front e suas tecnologias!
-Atualmente estou focado em Desenvolvimento Mobile com Flutter e Web com Laravel, Vue e Bootstrap.
+Trabalho com Desenvolvimento Mobile com Flutter e Web com Laravel, Vue e Bootstrap.
 
-
-- 🔭 Atualmente trabalhando com Desenvolvimento Mobile
-- 🌱 Estudando Flutter, Clean Architecture, TDD, SOLID, Design Patterns
+- 🎂 23 anos
+- 📱 Atualmente focado em Desenvolvimento Mobile
+- 📘 Estudando Flutter, Clean Architecture, TDD, SOLID, Design Patterns
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/viniciusmoraisxd">
