@@ -1,6 +1,7 @@
 ## Olá, me chamo Vinícius de Morais! 👋
 
-Sou um entusiasta apaixonado por tecnologia e desenvolvimento de aplicativos.
+Sou um entusiasta apaixonado por tecnologia e desenvolvimento de aplicativos. 
+
 Trabalho com Desenvolvimento Mobile com Flutter e Web com Laravel, Vue e Bootstrap.
 
 - 🎂 23 anos
