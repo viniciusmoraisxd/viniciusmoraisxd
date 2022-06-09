@@ -5,7 +5,7 @@ Trabalho com Desenvolvimento Mobile com Flutter e Web com Laravel, Vue e Bootstr
 
 - 🎂 23 anos
 - 📱 Atualmente focado em Desenvolvimento Mobile
-- 📘 Estudando Flutter, Clean Architecture, TDD, SOLID, Design Patterns
+- 📘 Flutter, Clean Architecture, TDD, SOLID, Design Patterns
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/viniciusmoraisxd">
